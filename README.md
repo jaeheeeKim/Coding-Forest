@@ -1,8 +1,7 @@
 # Coding-Forest
-➡️Java Swing Mini Project
+➡️ Java Swing Mini Project
 
 ## 개요
----
 - 개발 기간 : 7일
   - 설계 :
   - 기능 :
