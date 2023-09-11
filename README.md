@@ -1,4 +1,6 @@
 # Coding-Forest
+1️⃣ 개요 2️⃣ 개발 환경 3️⃣ 담당 기능 4️⃣ 그 외 기능들 5️⃣ 배운점
+
 ![image](https://github.com/jaeheeeKim/Coding-Forest/assets/137701489/df96b972-b7fb-4ecd-932c-ea3b56ef833a)
 
 
