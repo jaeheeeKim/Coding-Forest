@@ -1,5 +1,5 @@
 # Coding-Forest
-![image](https://github.com/jaeheeeKim/Coding-Forest/assets/137701489/a69773e6-c6b0-4ce1-a9c0-d36dda7e8fe9)
+![image](https://github.com/jaeheeeKim/Coding-Forest/assets/137701489/df96b972-b7fb-4ecd-932c-ea3b56ef833a)
 
 
 
